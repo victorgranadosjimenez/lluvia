@@ -42,7 +42,7 @@ Mira Deployment para conocer como desplegar el proyecto.
 
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Víctor Granados Jiménez</sub>](https://github.com/victorgranadosjimenez) 
+[<img src="[https://avatars.githubusercontent.com/u/37356058](https://avatars.githubusercontent.com/u/57761479?v=4)?v=4" width=115><br><sub>Víctor Granados Jiménez</sub>](https://github.com/victorgranadosjimenez) 
 
 
 
