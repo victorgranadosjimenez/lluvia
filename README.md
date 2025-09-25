@@ -1,6 +1,8 @@
 Título del Proyecto
 <em> # Web con html y css </em>
 
+![descripción de la imágen](URL de la imagen generada por el servicio de alojamiento o GitHub)
+
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
