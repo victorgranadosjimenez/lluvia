@@ -1,3 +1,21 @@
+##Índice
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Insignias](#insignias)
+*[Índice](#índice)
+*[Descripción del proyecto](#descripción-del-proyecto)
+*[Estado del proyecto](#Estado-del-proyecto)
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+*[Acceso al proyecto](#acceso-proyecto)
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+*[Personas Contribuyentes](#personas-contribuyentes)
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Licencia](#licencia)
+*[Conclusión](#conclusión)
+
+
+:construction: Proyecto en construcción :construction:
+
+
 Título del Proyecto
 <em> # Web con html y css </em>
 
@@ -7,6 +25,12 @@ Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 Mira Deployment para conocer como desplegar el proyecto.
+
+## :hammer:Funcionalidades del proyecto
+- `Funcionalidad 1`: descripción de la funcionalidad 1
+- - `Funcionalidad 2`: descripción de la funcionalidad 2
+  - - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con l
+
 
 Pre-requisitos 📋
 Que cosas necesitas para instalar el software y como instalarlas
