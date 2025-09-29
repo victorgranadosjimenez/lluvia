@@ -27,9 +27,11 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 
 ## Autor ✒️
-[<img src="https://avatars.githubusercontent.com/u/57761479?v=4" width=115><br><sub>Víctor Granados Jiménez</sub>](https://github.com/victorgranadosjimenez) 
 VÍCTOR GRANADOS JIMÉNEZ
 
+[<img src="https://avatars.githubusercontent.com/u/57761479?v=4" width=115><br>
+
+* [Perfil Github](https://github.com/victorgranadosjimenez)
 * [Correo](granadosvictor01@gmail.com)
 * [LinkedIn](www.linkedin.com/in/victorgranadosjimenez/)
 
