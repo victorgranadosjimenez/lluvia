@@ -1,4 +1,4 @@
-# Título del proyecto
+# LLuvia (FRONTEND)
 ![Imagen del proyecto](https://raw.githubusercontent.com/victorgranadosjimenez/lluvia/refs/heads/master/Captura2.JPG?raw=true)
 
 ## Ejemplo en vivo
